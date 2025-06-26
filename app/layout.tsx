@@ -19,7 +19,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main>{children}</main>
 
         <footer>
-          <p>© 2025 My App. All rights reserved.</p>
+          <p>© 2025 My App. 652021049 Natthawut Woonkhong.</p>
         </footer>
       </body>
     </html>
